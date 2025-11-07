@@ -1,0 +1,8 @@
+# Read in the tree trace and construct the maximum clade credibility (MCC) tree #
+
+trace = readTreeTrace(file = "output_young2/FBD6_FBDP_1_run_2.trees", burnin=0.75, thinning = 1, nruns=1)
+
+# Summarize tree trace and save MCC tree to file
+mccTree(trace, file = "old3.2_PalmsFBD.tre", positiveBranchLengths = TRUE, sampledAncestors = TRUE, mean = FALSE)
+
+q()
