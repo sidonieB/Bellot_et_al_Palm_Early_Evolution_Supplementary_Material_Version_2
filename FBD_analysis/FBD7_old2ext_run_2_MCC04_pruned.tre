@@ -1,0 +1,385 @@
+#NEXUS
+[R-package treeio, Fri Oct  3 13:12:38 2025]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 186;
+	TAXLABELS
+		Balaka_longirostris
+		Veitchia_winin
+		Adonidia_merrillii
+		Jailoloa_halmaherensis
+		Manjekia_maturbongsii
+		Wallaceodoxa_raja_ampat
+		Ponapea_hentyi
+		Brassiophoenix_schumannii
+		Ptychococcus_lepidotus
+		Ptychosperma_buabe
+		Carpentaria_acuminata
+		Wodyetia_bifurcata
+		Normanbya_normanbyi
+		Drymophloeus_litigiosus
+		Archontophoenix_alexandrae
+		Chambeyronia_macrocarpa
+		Actinorhytis_calapparia
+		Calyptrocalyx_awa
+		Burretiokentia_vieillardii
+		Cyphophoenix_elegans
+		Campecarpus_fulcitus
+		Veillonia_alba
+		Physokentia_insolita
+		Cyphosperma_tanga
+		Lepidorrhachis_mooreana
+		Hedyscepe_canterburyana
+		Rhopalostylis_baueri
+		Basselinia_moorei
+		Howea_forsteriana
+		Linospadix_palmerianus
+		Laccospadix_australasicus
+		Dransfieldia_micrantha
+		Heterospathe_longipes
+		Neoveitchia_storckii
+		Satakentia_liukiuensis
+		Carpoxylon_macrospermum
+		Clinosperma_vaginata
+		Cyphokentia_cerifera
+		Hydriastele_wendlandiana
+		Genus_species7
+		Pinanga_rupestris
+		Nenga_grandiflora
+		Areca_catechu
+		Bentinckia_condapanna
+		Cyrtostachys_renda
+		Clinostigma_ponapense
+		Acanthophoenix_rousselii
+		Tectiphiala_ferox
+		Deckenia_nobilis
+		Genus_species8
+		Oncosperma_tigillarium
+		Nephrosperma_van_houtteanum
+		Phoenicophorium_borsigianum
+		Roscheria_melanochaetes
+		Verschaffeltia_splendida
+		Dictyosperma_album
+		Rhopaloblaste_ledermanniana
+		Iguanura_wallichiana
+		Loxococcus_rupicola
+		Dypsis_procumbens
+		Marojejya_darianii
+		Chrysalidocarpus_tanalensis
+		Vonitra_vonitrandambo
+		Lemurophoenix_laevis
+		Masoala_kona
+		Euterpe_edulis
+		Neonicholsonia_watsonii
+		Prestoea_ensiformis
+		Oenocarpus_minor
+		Hyospathe_elegans
+		Calyptrogyne_tutensis
+		Calyptronoma_plumeriana
+		Geonoma_monospatha
+		Asterogyne_martiana
+		Welfia_georgii
+		Pholidostachys_dactyloides
+		Manicaria_saccifera
+		Pelagodoxa_mesocarpa
+		Sommieria_leucophylla
+		Leopoldinia_pulchra
+		Attalea_butyracea
+		Cocos_nucifera
+		Syagrus_cearensis
+		Butia_capitata
+		Jubaea_chilensis
+		Allagoptera_caudescens
+		Parajubaea_torallyi
+		Beccariophoenix_fenestralis
+		Voanioala_gerardii
+		Jubaeopsis_caffra
+		Acrocomia_aculeata
+		Astrocaryum_alatum
+		Bactris_panamensis
+		Desmoncus_orthacanthos
+		Aiphanes_eggersii
+		Barcella_odora
+		Elaeis_oleifera
+		Reinhardtia_paiewonskiana
+		Roystonea_regia
+		Sclerosperma_mannii
+		Orania_ravaka
+		Genus_species4
+		Podococcus_barteri
+		Chamaedorea_alternans
+		Gaussia_maya
+		Synechanthus_warscewiczianus
+		Wendlandiella_gracilis
+		Hyophorbe_lagenicaulis
+		Iriartella_setigera
+		Socratea_exorrhiza
+		Wettinia_aequalis
+		Iriartea_deltoidea
+		Dictyocaryum_lamarckianum
+		Ammandra_decasperma
+		Aphandra_natalia
+		Phytelephas_aequatorialis
+		Pseudophoenix_vinifera
+		Ceroxylon_quindiuense
+		Juania_australis
+		Oraniopsis_appendiculata
+		Ravenea_albicans
+		Coccothrinax_argentata
+		Zombia_antillarum
+		Hemithrinax_ekmaniana
+		Thrinax_radiata
+		Leucothrinax_morrisii
+		Schippia_concolor
+		Itaya_amicorum
+		Sabinaria_magnifica
+		Chelyocarpus_chuco
+		Trithrinax_brasiliensis
+		Cryosophila_bartlettii
+		Sabal_bermudana
+		Phoenix_reclinata
+		Guihaia_argyrata
+		Rhapis_subtilis
+		Maxburretia_furtadoana
+		Trachycarpus_fortunei
+		Chamaerops_humilis
+		Rhapidophyllum_hystrix
+		Brahea_edulis
+		Johannesteijsmannia_altifrons
+		Licuala_telifera
+		Lanonia_gracilis
+		Saribus_papuanus
+		Livistona_australis
+		Pholidocarpus_macrocarpus
+		Acoelorrhaphe_wrightii
+		Serenoa_repens
+		Colpothrinax_aphanopetala
+		Copernicia_prunifera
+		Pritchardia_arecina
+		Washingtonia_filifera
+		Hyphaene_coriacea
+		Medemia_argun
+		Bismarckia_nobilis
+		Satranala_decussilvae
+		Borassodendron_borneense
+		Borassus_flabellifer
+		Lodoicea_maldivica
+		Latania_loddigesii
+		Corypha_umbraculifera
+		Arenga_undulatifolia
+		Caryota_rumphiana
+		Chuniophoenix_nana
+		Kerriodoxa_elegans
+		Tahina_spectabilis
+		Nannorrhops_ritchieana
+		Nypa_fruticans
+		Calamus_calospathus
+		Myrialepis_paradoxa
+		Plectocomia_mulleri
+		Plectocomiopsis_geminiflora
+		Pigafetta_filaris
+		Metroxylon_sagu
+		Salacca_bakeriana
+		Eleiodoxa_conferta
+		Korthalsia_echinometra
+		Lepidocaryum_tenue
+		Mauritiella_armata
+		Mauritia_flexuosa
+		Eremospatha_cuspidata
+		Laccosperma_opacum
+		Oncocalamus_tuleyi
+		Raphia_farinifera
+		Eugeissona_tristis
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Balaka_longirostris,
+		2	Veitchia_winin,
+		3	Adonidia_merrillii,
+		4	Jailoloa_halmaherensis,
+		5	Manjekia_maturbongsii,
+		6	Wallaceodoxa_raja_ampat,
+		7	Ponapea_hentyi,
+		8	Brassiophoenix_schumannii,
+		9	Ptychococcus_lepidotus,
+		10	Ptychosperma_buabe,
+		11	Carpentaria_acuminata,
+		12	Wodyetia_bifurcata,
+		13	Normanbya_normanbyi,
+		14	Drymophloeus_litigiosus,
+		15	Archontophoenix_alexandrae,
+		16	Chambeyronia_macrocarpa,
+		17	Actinorhytis_calapparia,
+		18	Calyptrocalyx_awa,
+		19	Burretiokentia_vieillardii,
+		20	Cyphophoenix_elegans,
+		21	Campecarpus_fulcitus,
+		22	Veillonia_alba,
+		23	Physokentia_insolita,
+		24	Cyphosperma_tanga,
+		25	Lepidorrhachis_mooreana,
+		26	Hedyscepe_canterburyana,
+		27	Rhopalostylis_baueri,
+		28	Basselinia_moorei,
+		29	Howea_forsteriana,
+		30	Linospadix_palmerianus,
+		31	Laccospadix_australasicus,
+		32	Dransfieldia_micrantha,
+		33	Heterospathe_longipes,
+		34	Neoveitchia_storckii,
+		35	Satakentia_liukiuensis,
+		36	Carpoxylon_macrospermum,
+		37	Clinosperma_vaginata,
+		38	Cyphokentia_cerifera,
+		39	Hydriastele_wendlandiana,
+		40	Genus_species7,
+		41	Pinanga_rupestris,
+		42	Nenga_grandiflora,
+		43	Areca_catechu,
+		44	Bentinckia_condapanna,
+		45	Cyrtostachys_renda,
+		46	Clinostigma_ponapense,
+		47	Acanthophoenix_rousselii,
+		48	Tectiphiala_ferox,
+		49	Deckenia_nobilis,
+		50	Genus_species8,
+		51	Oncosperma_tigillarium,
+		52	Nephrosperma_van_houtteanum,
+		53	Phoenicophorium_borsigianum,
+		54	Roscheria_melanochaetes,
+		55	Verschaffeltia_splendida,
+		56	Dictyosperma_album,
+		57	Rhopaloblaste_ledermanniana,
+		58	Iguanura_wallichiana,
+		59	Loxococcus_rupicola,
+		60	Dypsis_procumbens,
+		61	Marojejya_darianii,
+		62	Chrysalidocarpus_tanalensis,
+		63	Vonitra_vonitrandambo,
+		64	Lemurophoenix_laevis,
+		65	Masoala_kona,
+		66	Euterpe_edulis,
+		67	Neonicholsonia_watsonii,
+		68	Prestoea_ensiformis,
+		69	Oenocarpus_minor,
+		70	Hyospathe_elegans,
+		71	Calyptrogyne_tutensis,
+		72	Calyptronoma_plumeriana,
+		73	Geonoma_monospatha,
+		74	Asterogyne_martiana,
+		75	Welfia_georgii,
+		76	Pholidostachys_dactyloides,
+		77	Manicaria_saccifera,
+		78	Pelagodoxa_mesocarpa,
+		79	Sommieria_leucophylla,
+		80	Leopoldinia_pulchra,
+		81	Attalea_butyracea,
+		82	Cocos_nucifera,
+		83	Syagrus_cearensis,
+		84	Butia_capitata,
+		85	Jubaea_chilensis,
+		86	Allagoptera_caudescens,
+		87	Parajubaea_torallyi,
+		88	Beccariophoenix_fenestralis,
+		89	Voanioala_gerardii,
+		90	Jubaeopsis_caffra,
+		91	Acrocomia_aculeata,
+		92	Astrocaryum_alatum,
+		93	Bactris_panamensis,
+		94	Desmoncus_orthacanthos,
+		95	Aiphanes_eggersii,
+		96	Barcella_odora,
+		97	Elaeis_oleifera,
+		98	Reinhardtia_paiewonskiana,
+		99	Roystonea_regia,
+		100	Sclerosperma_mannii,
+		101	Orania_ravaka,
+		102	Genus_species4,
+		103	Podococcus_barteri,
+		104	Chamaedorea_alternans,
+		105	Gaussia_maya,
+		106	Synechanthus_warscewiczianus,
+		107	Wendlandiella_gracilis,
+		108	Hyophorbe_lagenicaulis,
+		109	Iriartella_setigera,
+		110	Socratea_exorrhiza,
+		111	Wettinia_aequalis,
+		112	Iriartea_deltoidea,
+		113	Dictyocaryum_lamarckianum,
+		114	Ammandra_decasperma,
+		115	Aphandra_natalia,
+		116	Phytelephas_aequatorialis,
+		117	Pseudophoenix_vinifera,
+		118	Ceroxylon_quindiuense,
+		119	Juania_australis,
+		120	Oraniopsis_appendiculata,
+		121	Ravenea_albicans,
+		122	Coccothrinax_argentata,
+		123	Zombia_antillarum,
+		124	Hemithrinax_ekmaniana,
+		125	Thrinax_radiata,
+		126	Leucothrinax_morrisii,
+		127	Schippia_concolor,
+		128	Itaya_amicorum,
+		129	Sabinaria_magnifica,
+		130	Chelyocarpus_chuco,
+		131	Trithrinax_brasiliensis,
+		132	Cryosophila_bartlettii,
+		133	Sabal_bermudana,
+		134	Phoenix_reclinata,
+		135	Guihaia_argyrata,
+		136	Rhapis_subtilis,
+		137	Maxburretia_furtadoana,
+		138	Trachycarpus_fortunei,
+		139	Chamaerops_humilis,
+		140	Rhapidophyllum_hystrix,
+		141	Brahea_edulis,
+		142	Johannesteijsmannia_altifrons,
+		143	Licuala_telifera,
+		144	Lanonia_gracilis,
+		145	Saribus_papuanus,
+		146	Livistona_australis,
+		147	Pholidocarpus_macrocarpus,
+		148	Acoelorrhaphe_wrightii,
+		149	Serenoa_repens,
+		150	Colpothrinax_aphanopetala,
+		151	Copernicia_prunifera,
+		152	Pritchardia_arecina,
+		153	Washingtonia_filifera,
+		154	Hyphaene_coriacea,
+		155	Medemia_argun,
+		156	Bismarckia_nobilis,
+		157	Satranala_decussilvae,
+		158	Borassodendron_borneense,
+		159	Borassus_flabellifer,
+		160	Lodoicea_maldivica,
+		161	Latania_loddigesii,
+		162	Corypha_umbraculifera,
+		163	Arenga_undulatifolia,
+		164	Caryota_rumphiana,
+		165	Chuniophoenix_nana,
+		166	Kerriodoxa_elegans,
+		167	Tahina_spectabilis,
+		168	Nannorrhops_ritchieana,
+		169	Nypa_fruticans,
+		170	Calamus_calospathus,
+		171	Myrialepis_paradoxa,
+		172	Plectocomia_mulleri,
+		173	Plectocomiopsis_geminiflora,
+		174	Pigafetta_filaris,
+		175	Metroxylon_sagu,
+		176	Salacca_bakeriana,
+		177	Eleiodoxa_conferta,
+		178	Korthalsia_echinometra,
+		179	Lepidocaryum_tenue,
+		180	Mauritiella_armata,
+		181	Mauritia_flexuosa,
+		182	Eremospatha_cuspidata,
+		183	Laccosperma_opacum,
+		184	Oncocalamus_tuleyi,
+		185	Raphia_farinifera,
+		186	Eugeissona_tristis
+	;
+	TREE * UNTITLED = [&R] ((169[&index=90]:171.450599,(((((((80[&index=129]:104.824541,((((((39[&index=155]:72.867419,((((((7[&index=183]:38.504578,((3[&index=187]:25.096846,(1[&index=189]:17.337262,2[&index=188]:17.337262)[&age_0.95_HPD={7.07631,30.6511},index=300,posterior=1]:7.759584)[&age_0.95_HPD={12.8616,38.0909},index=301,posterior=1]:7.684241,(6[&index=186]:24.509459,(4[&index=185]:14.857147,5[&index=184]:14.857147)[&age_0.95_HPD={5.69226,25.1674},index=302,posterior=1]:9.652312)[&age_0.95_HPD={13.3622,35.3081},index=303,posterior=1]:8.271628)[&age_0.95_HPD={21.1506,43.9543},index=304,posterior=1]:5.723491)[&age_0.95_HPD={26.6955,50.3705},index=305,posterior=1]:5.244479,(10[&index=181]:32.396123,(8[&index=182]:22.092232,9[&index=180]:22.092232)[&age_0.95_HPD={10.1839,37.1466},index=306,posterior=1]:10.303891)[&age_0.95_HPD={19.287,47.2853},index=307,posterior=1]:11.352934)[&age_0.95_HPD={33.5908,55.855},index=308,posterior=1]:5.73619,(14[&index=176]:37.113466,(13[&index=178]:31.869204,(11[&index=177]:19.550434,12[&index=179]:19.550434)[&age_0.95_HPD={4.1693,38.4002},index=309,posterior=1]:12.31877)[&age_0.95_HPD={13.1311,50.4473},index=310,posterior=1]:5.244262)[&age_0.95_HPD={17.8091,53.3597},index=311,posterior=1]:12.371781)[&age_0.95_HPD={38.9446,62.2743},index=312,posterior=1]:9.102336,(18[&index=190]:50.416287,(17[&index=191]:39.625328,(15[&index=193]:25.878398,16[&index=192]:25.878398)[&age_0.95_HPD={11.8856,41.3847},index=313,posterior=1]:13.74693)[&age_0.95_HPD={23.4627,54.6535},index=314,posterior=1]:10.790959)[&age_0.95_HPD={33.8534,64.5073},index=315,posterior=1]:8.171296)[&age_0.95_HPD={46.3582,71.7495},index=316,posterior=1]:5.885671,(28[&index=166]:52.998774,(((23[&index=171]:29.654615,(22[&index=168]:19.550352,(21[&index=172]:15.904508,(19[&index=173]:10.48644,20[&index=174]:10.48644)[&age_0.95_HPD={3.4819,20.1212},index=317,posterior=1]:5.418068)[&age_0.95_HPD={6.77961,28.1127},index=318,posterior=1]:3.645844)[&age_0.95_HPD={8.51355,32.9933},index=319,posterior=1]:10.104263)[&age_0.95_HPD={17.2727,46.7022},index=320,posterior=1]:10.892942,(24[&index=170]:31.140312,25[&index=169]:31.140312)[&age_0.95_HPD={13.3233,48.9875},index=321,posterior=1]:9.407245)[&age_0.95_HPD={25.7071,56.6462},index=322,posterior=1]:4.984238,(26[&index=167]:22.660561,27[&index=175]:22.660561)[&age_0.95_HPD={5.67177,42.8032},index=323,posterior=1]:22.871234)[&age_0.95_HPD={29.1294,62.1105},index=324,posterior=1]:7.466979)[&age_0.95_HPD={34.287,68.7808},index=325,posterior=1]:11.47448)[&age_0.95_HPD={52.2595,76.8256},index=326,posterior=1]:4.436376,(((31[&index=158]:32.043527,(29[&index=160]:23.769462,30[&index=159]:23.769462)[&age_0.95_HPD={9.51514,45.3986},index=327,posterior=1]:8.274065)[&age_0.95_HPD={16.2256,54.277},index=328,posterior=1]:21.581074,(32[&index=161]:32.398738,33[&index=162]:32.398738)[&age_0.95_HPD={15.774,54.9836},index=329,posterior=1]:21.225863)[&age_0.95_HPD={35.0394,70.5818},index=330,posterior=1]:10.276041,((36[&index=165]:33.673546,(34[&index=156]:17.34712,35[&index=157]:17.34712)[&age_0.95_HPD={3.93489,36.1417},index=331,posterior=1]:16.326426)[&age_0.95_HPD={14.0283,54.8739},index=332,posterior=1]:17.60512,(37[&index=164]:25.467453,38[&index=163]:25.467453)[&age_0.95_HPD={5.38476,49.3743},index=333,posterior=1]:25.811213)[&age_0.95_HPD={29.1485,70.6528},index=334,posterior=0.936888]:12.621976)[&age_0.95_HPD={46.1185,76.8039},index=335,posterior=1]:5.008988)[&age_0.95_HPD={56.8468,80.8693},index=336,posterior=1]:3.957789)[&age_0.95_HPD={61.9048,84.6631},index=338,posterior=1]:4.405541,((46[&index=138]:67.190031,(45[&index=139]:57.566723,(44[&index=144]:53.687408,(43[&index=140]:40.825804,(42[&index=141]:35.084068,(40[&index=143]:30.503922,41[&index=142]:30.503922)[&age_0.95_HPD={15.5472,45.4799},index=339,posterior=1]:4.580146)[&age_0.95_HPD={20.3481,52.1645},index=340,posterior=1]:5.741736)[&age_0.95_HPD={24.8006,59.2901},index=341,posterior=1]:12.861604)[&age_0.95_HPD={33.8072,72.8583},index=342,posterior=1]:3.879315)[&age_0.95_HPD={38.1494,77.2828},index=343,posterior=1]:9.623308)[&age_0.95_HPD={47.8358,85.0017},index=344,posterior=1]:7.742054,(51[&index=152]:66.926933,(50[&index=148]:59.125398,(49[&index=146]:42.062769,(47[&index=145]:27.975478,48[&index=147]:27.975478)[&age_0.95_HPD={11.2666,48.3503},index=345,posterior=1]:14.087291)[&age_0.95_HPD={22.8109,61.2131},index=346,posterior=1]:17.062629)[&age_0.95_HPD={40.9193,76.2416},index=347,posterior=1]:7.801535)[&age_0.95_HPD={56.7328,78.5985},index=352,posterior=1]:8.005152)[&age_0.95_HPD={65.036,87.7414},index=353,posterior=1]:2.340875)[&age_0.95_HPD={67.5683,89.081},index=354,posterior=1]:1.419566,(59[&index=130]:71.872666,(58[&index=131]:64.364656,(((52[&index=136]:22.719075,53[&index=135]:22.719075)[&age_0.95_HPD={6.47384,44.457},index=355,posterior=1]:20.637025,(54[&index=137]:23.604677,55[&index=132]:23.604677)[&age_0.95_HPD={7.76575,46.9631},index=356,posterior=1]:19.751423)[&age_0.95_HPD={26.4008,63.1866},index=357,posterior=1]:15.656977,(56[&index=133]:36.322821,57[&index=134]:36.322821)[&age_0.95_HPD={15.0363,61.4901},index=358,posterior=1]:22.690256)[&age_0.95_HPD={38.2792,76.7435},index=359,posterior=1]:5.351579)[&age_0.95_HPD={40.715,81.7842},index=360,posterior=1]:7.50801)[&age_0.95_HPD={48.6743,88.5292},index=361,posterior=1]:6.81986)[&age_0.95_HPD={68.4684,90.1898},index=362,posterior=1]:2.467955,(65[&index=202]:65.533801,(64[&index=203]:50.782739,(63[&index=204]:40.664393,(62[&index=205]:31.260694,(60[&index=207]:23.691036,61[&index=206]:23.691036)[&age_0.95_HPD={10.8163,46.8265},index=363,posterior=1]:7.569658)[&age_0.95_HPD={16.1292,57.3099},index=364,posterior=1]:9.403699)[&age_0.95_HPD={20.489,63.7614},index=365,posterior=1]:10.118346)[&age_0.95_HPD={26.4773,74.3119},index=366,posterior=1]:14.751062)[&age_0.95_HPD={36.0976,85.6863},index=367,posterior=1]:15.62668)[&age_0.95_HPD={70.8028,93.3394},index=368,posterior=1]:12.170777,(70[&index=201]:75.490968,(69[&index=199]:53.33361,(66[&index=195]:42.186717,(67[&index=196]:28.385124,68[&index=197]:28.385124)[&age_0.95_HPD={9.11556,50.3227},index=370,posterior=1]:13.801592)[&age_0.95_HPD={22.4172,64.9839},index=371,posterior=1]:11.146894)[&age_0.95_HPD={31.439,78.8918},index=374,posterior=1]:22.157358)[&age_0.95_HPD={52.7649,95.2453},index=375,posterior=1]:17.84029)[&age_0.95_HPD={78.6355,107.144},index=376,posterior=0.996042]:4.701295,((76[&index=215]:67.291127,(75[&index=217]:60.390914,(74[&index=212]:46.613711,(73[&index=216]:38.709555,(71[&index=211]:20.223922,72[&index=213]:20.223922)[&age_0.95_HPD={7.54089,35.1937},index=377,posterior=1]:18.485633)[&age_0.95_HPD={21.636,57.3013},index=378,posterior=0.757759]:7.904156)[&age_0.95_HPD={28.2279,67.134},index=379,posterior=1]:13.777203)[&age_0.95_HPD={42.0114,84.7279},index=380,posterior=0.661321]:6.900213)[&age_0.95_HPD={47.4576,89.2479},index=381,posterior=1]:25.439661,(77[&index=210]:73.137002,(78[&index=214]:28.795529,79[&index=208]:28.795529)[&age_0.95_HPD={11.0911,54.7559},index=383,posterior=1]:44.341473)[&age_0.95_HPD={41.5078,93.2736},index=384,posterior=1]:19.593786)[&age_0.95_HPD={73.2367,109.581},index=385,posterior=1]:5.301765)[&age_0.95_HPD={81.7594,112.002},index=386,posterior=1]:6.791988)[&age_0.95_HPD={88.6143,121.062},index=387,posterior=1]:13.634041,(99[&index=127]:109.700163,(98[&index=126]:94.771138,(((((81[&index=112]:42.628823,(82[&index=115]:33.76157,83[&index=107]:33.76157)[&age_0.95_HPD={21.2961,50.572},index=389,posterior=0.466153]:8.867253)[&age_0.95_HPD={27.9552,56.7468},index=390,posterior=0.462195]:3.70337,(84[&index=117]:18.048777,85[&index=109]:18.048777)[&age_0.95_HPD={4.79914,38.8661},index=391,posterior=1]:28.283416)[&age_0.95_HPD={31.4527,63.435},index=392,posterior=0.994793]:23.700626,(86[&index=113]:29.317678,87[&index=110]:29.317678)[&age_0.95_HPD={10.3381,53.1594},index=394,posterior=1]:40.715141)[&age_0.95_HPD={65.6188,77.8307},index=395,posterior=0.150802]:6.50404,(90[&index=108]:45.352271,(88[&index=114]:31.478895,89[&index=116]:31.478895)[&age_0.95_HPD={9.25057,58.1415},index=396,posterior=0.854405]:13.873376)[&age_0.95_HPD={18.3022,69.2602},index=397,posterior=0.877109]:31.184588)[&age_0.95_HPD={65.6262,87.6153},index=399,posterior=0.929181]:8.23468,((95[&index=124]:51.938274,(94[&index=125]:44.971968,(93[&index=121]:36.480675,(91[&index=122]:26.321456,92[&index=123]:26.321456)[&age_0.95_HPD={12.8803,45.1867},index=400,posterior=0.765674]:10.159219)[&age_0.95_HPD={23.4148,52.7742},index=401,posterior=0.662362]:8.491294)[&age_0.95_HPD={29.5075,57.4396},index=402,posterior=0.253281]:6.966306)[&age_0.95_HPD={35.2924,69.0345},index=404,posterior=1]:20.68156,(96[&index=119]:35.504961,97[&index=128]:35.504961)[&age_0.95_HPD={15.7647,58.7808},index=405,posterior=1]:37.114873)[&age_0.95_HPD={57.698,87.9567},index=406,posterior=1]:12.151705)[&age_0.95_HPD={71.2427,98.1211},index=407,posterior=1]:9.999599)[&age_0.95_HPD={79.3217,110.617},index=408,posterior=1]:14.929025)[&age_0.95_HPD={90.1503,127.345},index=409,posterior=1]:8.758419)[&age_0.95_HPD={103.02,136.731},index=410,posterior=1]:6.47388,((100[&index=103]:66.340738,101[&index=101]:66.340737)[&age_0.95_HPD={41.0057,103.462},index=413,posterior=1]:18.98735,(102[&index=100]:44.81673,103[&index=102]:44.81673)[&age_0.95_HPD={16.1507,76.7455},index=414,posterior=1]:40.511357)[&age_0.95_HPD={56.5362,117.241},index=415,posterior=1]:39.604375)[&age_0.95_HPD={107.665,142.732},index=416,posterior=1]:5.50256,(108[&index=225]:80.196134,(107[&index=224]:63.674474,(106[&index=228]:46.866,(104[&index=227]:35.413447,105[&index=226]:35.413447)[&age_0.95_HPD={18.1068,55.3139},index=417,posterior=1]:11.452552)[&age_0.95_HPD={26.6206,69.4706},index=419,posterior=1]:16.808475)[&age_0.95_HPD={40.6281,91.5954},index=420,posterior=1]:16.52166)[&age_0.95_HPD={51.2984,110.722},index=421,posterior=1]:50.238888)[&age_0.95_HPD={112.436,148.75},index=422,posterior=1]:6.069291,(113[&index=218]:69.088065,(112[&index=220]:53.483878,(111[&index=221]:34.195464,(109[&index=223]:15.647492,110[&index=222]:15.647492)[&age_0.95_HPD={0.013237,39.6234},index=423,posterior=1]:18.547972)[&age_0.95_HPD={14.3617,62.7087},index=424,posterior=1]:19.288414)[&age_0.95_HPD={28.7951,89.379},index=426,posterior=1]:15.604187)[&age_0.95_HPD={37.8118,108.469},index=427,posterior=1]:67.416248)[&age_0.95_HPD={117.073,154.683},index=428,posterior=1]:5.157533,((117[&index=234]:84.614617,(116[&index=238]:45.037027,(114[&index=236]:30.498631,115[&index=235]:30.498631)[&age_0.95_HPD={10.1631,56.6398},index=429,posterior=1]:14.538396)[&age_0.95_HPD={22.7953,73.6447},index=431,posterior=1]:39.57759)[&age_0.95_HPD={57.628,119.993},index=432,posterior=1]:16.173233,((118[&index=231]:31.167931,119[&index=230]:31.167931)[&age_0.95_HPD={12.3295,61.7898},index=433,posterior=1]:12.804687,(120[&index=233]:32.756423,121[&index=232]:32.756423)[&age_0.95_HPD={11.0082,63.0622},index=434,posterior=1]:11.216195)[&age_0.95_HPD={19.521,76.2565},index=435,posterior=1]:56.815232)[&age_0.95_HPD={67.7156,133.17},index=436,posterior=1]:40.873996)[&age_0.95_HPD={123.145,161.31},index=437,posterior=1]:14.393604,(((134[&index=245]:119.128293,(133[&index=248]:101.562317,(132[&index=243]:76.507473,(131[&index=254]:70.294776,((127[&index=255]:49.058221,(126[&index=258]:44.377144,((122[&index=257]:28.362058,123[&index=256]:28.362058)[&age_0.95_HPD={14.8224,42.5235},index=438,posterior=1]:9.767877,(124[&index=259]:25.563463,125[&index=260]:25.563463)[&age_0.95_HPD={11.248,40.6449},index=439,posterior=1]:12.566472)[&age_0.95_HPD={24.951,49.9551},index=440,posterior=1]:6.247209)[&age_0.95_HPD={30.9019,59.4283},index=441,posterior=1]:4.681077)[&age_0.95_HPD={33.7405,64.711},index=442,posterior=1]:13.13377,(130[&index=251]:53.833179,(128[&index=253]:21.824703,129[&index=252]:21.824703)[&age_0.95_HPD={8.7416,41.0721},index=443,posterior=1]:32.008476)[&age_0.95_HPD={32.6915,75.0298},index=444,posterior=1]:8.358812)[&age_0.95_HPD={43.667,79.3288},index=445,posterior=1]:8.102785)[&age_0.95_HPD={53.0507,89.9324},index=446,posterior=1]:6.212698)[&age_0.95_HPD={60.0272,98.0831},index=449,posterior=1]:25.054843)[&age_0.95_HPD={84.9729,121.096},index=452,posterior=1]:17.565975)[&age_0.95_HPD={99.3979,136.779},index=456,posterior=1]:8.742419,((150[&index=278]:89.649394,((141[&index=272]:61.434358,(140[&index=264]:49.76061,(139[&index=280]:45.510546,(138[&index=275]:39.026513,(137[&index=273]:33.565568,(135[&index=268]:24.597331,136[&index=261]:24.597331)[&age_0.95_HPD={12.5917,41.6392},index=457,posterior=1]:8.968237)[&age_0.95_HPD={21.0497,53.5517},index=458,posterior=0.995834]:5.460945)[&age_0.95_HPD={25.3664,59.7626},index=459,posterior=0.995834]:6.484033)[&age_0.95_HPD={31.5905,68.675},index=462,posterior=0.819829]:4.250064)[&age_0.95_HPD={35.5571,73.5621},index=463,posterior=0.992085]:11.673748)[&age_0.95_HPD={45.1639,84.0406},index=464,posterior=0.90502]:17.064165,((((142[&index=270]:21.241824,143[&index=276]:21.241824)[&age_0.95_HPD={7.55826,38.8405},index=465,posterior=1]:15.12348,(144[&index=267]:25.696026,145[&index=266]:25.696026)[&age_0.95_HPD={11.4189,43.1786},index=466,posterior=1]:10.669278)[&age_0.95_HPD={20.1317,53.5268},index=467,posterior=1]:13.095439,(146[&index=269]:17.794294,147[&index=265]:17.794294)[&age_0.95_HPD={2.50549,38.7746},index=468,posterior=1]:31.666449)[&age_0.95_HPD={31.0125,69.5547},index=469,posterior=0.964382]:13.655573,(148[&index=274]:41.099635,149[&index=279]:41.099635)[&age_0.95_HPD={19.61,67.0913},index=470,posterior=0.995001]:22.016681)[&age_0.95_HPD={43.5059,82.5644},index=471,posterior=0.911477]:15.382207)[&age_0.95_HPD={60.4639,99.3059},index=472,posterior=0.602583]:11.150871)[&age_0.95_HPD={68.6002,109.125},index=474,posterior=0.652156]:12.525405,(153[&index=262]:68.564959,(151[&index=277]:50.014992,152[&index=263]:50.014992)[&age_0.95_HPD={23.6643,79.7275},index=475,posterior=0.947303]:18.549967)[&age_0.95_HPD={39.6051,98.3471},index=476,posterior=0.756926]:33.60984)[&age_0.95_HPD={78.7436,121.461},index=477,posterior=1]:25.695912)[&age_0.95_HPD={108.098,146.349},index=478,posterior=1]:14.246489,(((162[&index=297]:94.93529,(((154[&index=290]:38.50194,155[&index=288]:38.50194)[&age_0.95_HPD={27.6991,53.1887},index=480,posterior=1]:19.005782,(156[&index=287]:36.25972,157[&index=286]:36.25972)[&age_0.95_HPD={15.4502,60.2732},index=481,posterior=1]:21.248002)[&age_0.95_HPD={41.0441,72.2465},index=482,posterior=0.927099]:20.704613,(161[&index=292]:55.592824,(160[&index=291]:40.921972,(158[&index=299]:27.078301,159[&index=298]:27.078301)[&age_0.95_HPD={10.1932,49.6874},index=484,posterior=1]:13.843671)[&age_0.95_HPD={17.9686,63.1372},index=485,posterior=0.900854]:14.670852)[&age_0.95_HPD={30.7615,79.2349},index=486,posterior=1]:22.619511)[&age_0.95_HPD={65.8383,93.262},index=487,posterior=1]:16.722955)[&age_0.95_HPD={77.6846,112.971},index=488,posterior=1]:14.201714,(163[&index=294]:74.195275,164[&index=296]:74.195276)[&age_0.95_HPD={60.3946,95.6861},index=491,posterior=1]:34.941728)[&age_0.95_HPD={93.4956,133.778},index=492,posterior=1]:7.518882,(168[&index=240]:65.728428,(167[&index=239]:44.799655,(165[&index=284]:28.40378,166[&index=283]:28.40378)[&age_0.95_HPD={8.99968,53.4075},index=493,posterior=1]:16.395875)[&age_0.95_HPD={21.7323,79.6692},index=494,posterior=1]:20.928773)[&age_0.95_HPD={31.689,96.6293},index=495,posterior=1]:50.927458)[&age_0.95_HPD={98.4983,138.224},index=496,posterior=1]:25.461314)[&age_0.95_HPD={125.072,163.503},index=497,posterior=1]:13.93825)[&age_0.95_HPD={137.749,176.592},index=498,posterior=1]:15.395149)[&age_0.95_HPD={148.033,191.605},index=519,posterior=1]:17.495632,((178[&index=6]:113.90247,((175[&index=34]:94.962473,(174[&index=31]:87.465029,(170[&index=18]:79.571723,(173[&index=9]:43.295711,(171[&index=3]:38.504906,172[&index=2]:38.504906)[&age_0.95_HPD={17.6042,66.1069},index=527,posterior=1]:4.790805)[&age_0.95_HPD={23.1941,69.2297},index=528,posterior=0.528223]:36.276011)[&age_0.95_HPD={76.3821,84.9108},index=531,posterior=0.001666]:7.893307)[&age_0.95_HPD={85.7334,87.465},index=539,posterior=0.000625]:7.497444)[&age_0.95_HPD={94.9625,94.9625},index=544,posterior=0.000208]:14.214885,(176[&index=32]:55.427674,177[&index=20]:55.427673)[&age_0.95_HPD={24.2407,86.0489},index=546,posterior=0.023953]:53.749685)[&age_0.95_HPD={105.669,117.667},index=549,posterior=0.004582]:4.725112)[&age_0.95_HPD={112.472,115.631},index=553,posterior=0.001875]:34.446902,(186[&index=43]:136.585322,((179[&index=71]:94.861707,(180[&index=56]:83.669402,181[&index=69]:83.669401)[&age_0.95_HPD={79.4311,93.7576},index=573,posterior=0.001458]:11.192306)[&age_0.95_HPD={78.7023,114.647},index=574,posterior=0.020621]:24.822425,(185[&index=78]:94.217949,(182[&index=77]:53.597601,(183[&index=75]:36.081413,184[&index=74]:36.081413)[&age_0.95_HPD={13.4023,64.0913},index=577,posterior=1]:17.516188)[&age_0.95_HPD={29.4417,79.6063},index=578,posterior=1]:40.620348)[&age_0.95_HPD={59.894,125.444},index=579,posterior=0.980421]:25.466183)[&age_0.95_HPD={96.9677,149.33},index=580,posterior=1]:16.90119)[&age_0.95_HPD={121.735,157.268},index=595,posterior=0.054572]:11.76405)[&age_0.95_HPD={132.296,172.896},index=596,posterior=1]:40.596859)[&age_0.95_HPD={171,204.373},index=597,posterior=1];
+END;
