@@ -1,8 +1,0 @@
-# Read in the tree trace and construct the maximum clade credibility (MCC) tree #
-
-trace = readTreeTrace(file = "young_2/FBD7.trees", burnin=0.633, thinning = 1, nruns=2)
-
-# Summarize tree trace and save MCC tree to file
-mccTree(trace, file = "young2_PalmsFBD7.tre", positiveBranchLengths = TRUE, sampledAncestors = TRUE, mean = FALSE)
-
-q()
